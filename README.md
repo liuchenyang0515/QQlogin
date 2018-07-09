@@ -1,1 +1,1 @@
-# QQlogin
+# 主要代码目录:\app\src\main
