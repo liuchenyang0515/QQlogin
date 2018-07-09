@@ -1,1 +1,1 @@
-# 主要代码目录:\app\src\main
+# The main code directory:\app\src\main
